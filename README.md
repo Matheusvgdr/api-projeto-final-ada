@@ -1,4 +1,4 @@
-# Test API
+# API de produtos
 
 API simples desenvolvida em **Node.js** com **Express**, utilizando **SQLite** como banco de dados.  
 O projeto já vem configurado com autenticação via **JWT**, criptografia com **bcrypt**, upload de arquivos com **Multer** e suporte a **CORS**.  
